@@ -8,6 +8,14 @@ import com.meterware.httpunit.WebLink;
 import com.meterware.httpunit.WebResponse;
 import com.meterware.httpunit.WebTable;
 
+/**
+ * This is my working example of the cookbook found on 
+ * http://httpunit.sourceforge.net/doc/cookbook.html
+ * 
+ * @author Irina Likhtina iralight@gmail.com
+ * Do not distribute without permission.
+ *
+ */
 public class IrinaHttpUnit
 {
 
